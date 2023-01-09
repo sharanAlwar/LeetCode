@@ -11,7 +11,7 @@ Example 2:
 Input: nums = [-3,-2,-1,0,0,1,2]
 Output: 3
 Explanation: There are 2 positive integers and 3 negative integers. The maximum count among them is 3.
-Example 3:
+Ex 3:
 
 Input: nums = [5,20,66,1314]
 Output: 4
